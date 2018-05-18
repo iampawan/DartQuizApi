@@ -3,7 +3,7 @@
 
 An application built with [aqueduct](https://github.com/stablekernel/aqueduct).
 
-#Topics Covered
+# Topics Covered
 1. How to Setup Aqueduct ?
 2. How to write your first REST API ?
 3. How to make controllers ?
@@ -15,7 +15,7 @@ An application built with [aqueduct](https://github.com/stablekernel/aqueduct).
 9. What are Relationships and Joins ?
 10. How to deploy to real database ?
 
-#YouTube Tutorial Playlist 
+# YouTube Tutorial Playlist 
 [Dart Aqueduct Backend Series For Beginners Tutorial](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_U3RMzoAXeC6_c5Dv43t8P-)
 
 ## Running the Application in Development
