@@ -4,16 +4,16 @@
 An application built with [aqueduct](https://github.com/stablekernel/aqueduct).
 
 # Topics Covered
-1. How to Setup Aqueduct ?
-2. How to write your first REST API ?
-3. How to make controllers ?
-4. How to write tests ?
-5. How to setup PostgreSQL ?
-6. How to write tests with test db ?
-7. What is ORM ?
-8. How to make DataModels ?
-9. What are Relationships and Joins ?
-10. How to deploy to real database ?
+1.[x] How to Setup Aqueduct ?
+2.[x] How to write your first REST API ?
+3.[x] How to make controllers ?
+4.[x] How to write tests ?
+5.[x] How to setup PostgreSQL ?
+6.[x] How to write tests with test db ?
+7.[x] What is ORM ?
+8.[x] How to make DataModels ?
+9.[x] What are Relationships and Joins ?
+10.[x] How to deploy to real database ?
 
 # YouTube Tutorial Playlist 
 [Dart Aqueduct Backend Series For Beginners Tutorial](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_U3RMzoAXeC6_c5Dv43t8P-)
